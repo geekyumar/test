@@ -1,5 +1,0 @@
-{{#user}}
-Name: Umar Farooq
-Skills: HTML, CSS, JS, PHP, MySQL, Linux, Networking, Dockers
-Email: umarabdul.0121@gmail.com
-{{/user}}
